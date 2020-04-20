@@ -1,8 +1,6 @@
-# WebViewer - Vue sample
+# PDF.js Express - Vue sample
 
-[WebViewer](https://www.pdftron.com/webviewer) is a powerful JavaScript-based PDF Library that's part of the [PDFTron PDF SDK](https://www.pdftron.com). It provides a slick out-of-the-box responsive UI that interacts with the core library to view, annotate and manipulate PDFs that can be embedded into any web project.
-
-![WebViewer UI](https://www.pdftron.com/downloads/pl/webviewer-ui.png)
+[PDF.js Express](https://pdfjs.express/) is a powerful JavaScript-based PDF Library that leverages PDF.js and adds additional features such as annotations, form support, and digitial signatures. It provides a slick out-of-the-box responsive UI that interacts with the core library to view, annotate and manipulate PDFs that can be embedded into any web project.
 
 This repo is specifically designed for any users interested in integrating WebViewer into Vue project.
 
@@ -37,4 +35,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-![](https://onepixel.pdftron.com/webviewer-vue-sample)
